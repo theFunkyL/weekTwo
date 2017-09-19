@@ -1,8 +1,64 @@
-body{
+/*body{
 	background-color: #f5545c;
-}
+}*/
 .sections{
 	width: 100vw;
 	height: 100vh;
 }
-#header{}
+#header{
+	background-color: #2e2e2e;
+}
+#headImg{
+	height: 500px;
+	width: 500px;
+	/*padding-right: auto;
+	padding-left: auto;*/
+	margin-left: 400px;
+	margin-top: 75px;
+	float: center;
+}
+#work{
+	background-color: #eee;
+}
+#about{
+	background-color: #2e2e2e;
+}
+#highFive{
+	background-color: #f5545c;
+}
+/*.portfolio .port{
+	height: 668px;
+	width: 668px;
+}*/
+.port{
+	height: 668px;
+	width: 668px;
+	float: right;
+	position: absolute;
+	margin-left: 668px;
+}
+#shit{
+	background-color: #eee;
+	height: 668px;
+	width: 673px;
+	float: right;
+	position: absolute;
+	margin-left: 668px;
+
+}
+.handy{
+	width: 25%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#stick{
+	width: 8%;
+}
+#middle, #base{
+	width: 19%;
+}
+#pretty{
+	width: 6%;
+	margin-left: 570px;
+}
